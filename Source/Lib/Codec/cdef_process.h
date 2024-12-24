@@ -15,6 +15,8 @@
 #include "sys_resource_manager.h"
 #include "object.h"
 
+#define CCSO 1
+
 /**************************************
  * Extern Function Declarations
  **************************************/

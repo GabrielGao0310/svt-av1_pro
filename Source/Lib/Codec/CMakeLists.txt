@@ -77,6 +77,8 @@ set(all_files
         cabac_context_model.h
         cdef.c
         cdef.h
+        ccso.c
+        ccso.h
         cdef_process.c
         cdef_process.h
         coding_loop.c
